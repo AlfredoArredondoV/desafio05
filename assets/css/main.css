@@ -1,18 +1,4 @@
 body {
     font-family: 'Roboto', sans-serif;
-
-}
-.bg-cuppon {
-    background-color: #28A745;
-}
-.letras {
-    color: white;
-}
-.precio {
-    color: #28A745;
-    font-weight: 700;
-    font-size: large;
-}
-.pie_pagina {
-    background-color: #28A745;
+    background-color: black;
 }
